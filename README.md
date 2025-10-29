@@ -52,3 +52,7 @@ The dashboard provides an analytical overview of demographics, job roles, salari
 📧 [muhammedthahauwais@gmail.com](mailto:muhammedthahauwais@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammed-thaha-uwais-5b5444279/)
 
+ScreenShot
+Show What the Dashboard look like
+![Dashboard Preview](https://github.com/Muhammedthwaha/Data-Professionals-Survey-Dashboard/blob/main/Snapshort%20of%20the%20Dashboard.png)
+
