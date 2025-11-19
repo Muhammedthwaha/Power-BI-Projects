@@ -1,58 +1,118 @@
-# 📊 Data Professionals Survey Dashboard
 
-### **Project Overview**
-This project visualizes insights from a global survey of data professionals using **Power BI**.  
-The dashboard provides an analytical overview of demographics, job roles, salaries, and overall satisfaction within the data industry.
+# 📊 Power BI Projects – Data Analysis & Business Intelligence Repository
 
----
+Welcome to my **Power BI Projects Repository**, a collection of real-world **Data Analytics and Data Science dashboards** created using **Microsoft Power BI**.
 
-### **🎯 Objectives**
-- Explore the distribution of data professionals across countries.  
-- Compare **average salaries** by job title.  
-- Analyze **favorite programming languages** among respondents.  
-- Evaluate **work-life balance** and **happiness with salary**.  
-- Understand how difficult professionals find it to **break into the data field**.
+This repository highlights my ability to transform raw datasets into **interactive dashboards, insightful visuals, and data-driven business solutions** using Power BI, DAX, and data modeling techniques.
 
 ---
 
-### **📈 Dashboard Highlights**
-- **Country of Survey Takers:** Tree map showing the distribution by location.  
-- **Average Salary by Job Title:** Bar chart comparing pay across roles.  
-- **Favorite Programming Language:** Bar chart revealing most-used languages.  
-- **Difficulty to Break into Data:** Donut chart visualizing perceived entry difficulty.  
-- **Happiness Metrics:** Gauge visuals for work-life balance and salary satisfaction.  
-- **Survey Summary:** Displays average age and total number of participants.
+## 📁 What You'll Find in This Repository
+
+This repository includes Power BI projects focusing on:
+
+### ✔ Data Analytics
+
+* Sales performance
+* Customer insights
+* Financial analysis
+* HR analytics
+* Marketing trends
+* Operations & supply chain performance
+
+### ✔ Data Modeling
+
+* Power Query transformations
+* Data cleaning & shaping
+* Relationship building
+* Star schema modeling
+
+### ✔ Visualization & Reporting
+
+* KPI indicators
+* Drill-down & drill-through
+* Filters, slicers, bookmarks
+* Interactive dashboards
+* Custom visuals
+
+### ✔ DAX (Data Analysis Expressions)
+
+* Calculated columns
+* Measures
+* Time intelligence
+* Business logic implementation
 
 ---
 
-### **🛠️ Tools Used**
-- **Power BI** – Data visualization and dashboard creation  
-- **Microsoft Excel** – Data cleaning and preparation  
+## 📂 Repository Structure
+
+Each project folder typically includes:
+
+```
+📁 Project Name
+   ├── .pbix file (Power BI Dashboard)
+   ├── Dataset (CSV / Excel)
+   ├── Dashboard preview (PNG)
+   └── README.md (Documentation)
+```
 
 ---
 
-### **📂 Files in This Project**
-- `Data Professionals Survey Project.pbix` → Power BI dashboard file  
-- `Excell file.xlsx` → Source dataset used for analysis  
-- `Snapshort of the Dashboard.png` → Preview of the final dashboard  
+## 🚀 Skills Demonstrated
+
+* Power BI Desktop
+* Power Query
+* DAX formulas
+* Data cleaning & ETL
+* Data modeling (Star Schema)
+* Interactive dashboard design
+* KPI development
+* Business insights generation
 
 ---
 
-### **📊 Key Insights**
-- The **United States** had the highest number of respondents.  
-- **Data Scientists** earn the highest average salary among all roles.  
-- **Python** is the most popular programming language.  
-- Most respondents find it **moderately easy** to enter the data field.  
-- Average happiness with **work-life balance** is **5.74/10**, and with **salary** is **4.27/10**.
+## 📈 Featured Projects (Uploaded / Upcoming)
+
+✔ Data Professionals Survey Dashboard
+✔ Covid-19 Data Analysis Dashboard
+✔ Sales & Inventory Performance Dashboard
+✔ Bank Customer Analysis Dashboard
+✔ Olympic Dataset Dashboard
+*(More projects will be added regularly…)*
 
 ---
 
-### **👨‍💻 Created By**
-**Muhammed Thaha Uwais**  
-📧 [muhammedthahauwais@gmail.com](mailto:muhammedthahauwais@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammed-thaha-uwais-5b5444279/)
+## 🎯 Purpose of This Repository
 
-ScreenShot
-Show What the Dashboard look like
-![Dashboard Preview](https://github.com/Muhammedthwaha/Data-Professionals-Survey-Dashboard/blob/main/Snapshort%20of%20the%20Dashboard.png)
+This repository serves as:
+
+* My **Power BI portfolio**
+* A central hub for all my BI and dashboard projects
+* A reference for recruiters and collaborators
+* A continuously growing collection of real-world analytical dashboards
+
+---
+
+## 🛠️ Tools Used
+
+* Microsoft Power BI Desktop
+* Power Query
+* DAX
+* Excel / CSV datasets
+* SQL (for some projects)
+* Python (optional preprocessing)
+
+---
+
+## 📬 Connect With Me
+
+**Muhammed Thaha Uwais**
+📧 **[muhammedthahauwais@gmail.com](mailto:muhammedthahauwais@gmail.com)**
+🔗 **LinkedIn:** [https://www.linkedin.com/in/muhammed-thaha-uwais-5b5444279/](https://www.linkedin.com/in/muhammed-thaha-uwais-5b5444279/)
+
+---
+
+## ⭐ Support
+
+If you like this repository, please **Star ⭐ the repo** — it helps more people discover it and motivates me to publish more Power BI projects.
 
