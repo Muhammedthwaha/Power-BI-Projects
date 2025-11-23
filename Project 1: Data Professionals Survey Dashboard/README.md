@@ -4,6 +4,9 @@
 This project visualizes insights from a global survey of data professionals using **Power BI**.  
 The dashboard provides an analytical overview of demographics, job roles, salaries, and overall satisfaction within the data industry.
 
+## Dashboard
+![Dashboard](https://github.com/Muhammedthwaha/Power-BI-Projects/blob/main/Project%201%3A%20Data%20Professionals%20Survey%20Dashboard/Snapshort%20of%20the%20Dashboard.png)
+
 ---
 
 ### **🎯 Objectives**
