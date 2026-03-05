@@ -106,7 +106,7 @@ Common fields analyzed:
 ## 👤 Author
 
 **Muhammed Thaha Uwais**
-🔗 LinkedIn: ([Add your link](https://www.linkedin.com/in/muhammed-thaha-uwais-5b5444279/))
+🔗 LinkedIn: ([(https://www.linkedin.com/in/muhammed-thaha-uwais-5b5444279/))
 📧 Email: (muhammedthahauwais@gmail.com)
 
 ---
